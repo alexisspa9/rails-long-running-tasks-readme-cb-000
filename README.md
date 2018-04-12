@@ -1,4 +1,4 @@
-# Long-Running Tasks In Rails
+ # Long-Running Tasks In Rails
 
 # Objectives
 
